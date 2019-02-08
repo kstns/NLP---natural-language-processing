@@ -1,4 +1,4 @@
-# NLP natural-language-processing
+# NLP natural language processing
 Natural language processing is a task to train software to understand a speech or text.
 There are multiple practical uses for this of course. Assigning labels to documents based on document content is one of them.
 
